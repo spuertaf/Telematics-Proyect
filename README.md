@@ -55,7 +55,7 @@ Se tuvieron en cuenta varios aspectos importantes en el desarrollo:
 
 Presentamos un diagrama de componentes, para visualizar la articulación del codigo, quiza facilite la comprension del desarrollo del proyecto:
 
-![Diagrama de componentes](/Diagrama en blanco.png)
+![Diagrama de componentes](Diagrama.png)
 
 Se manejan estados y errores como lo son:
 
